@@ -70,7 +70,7 @@ sass --watch style/style.scss style/style.css
 ---
 
 👨‍💻 作者
-Hansel Huang
+Hensel Huang
 
 授權
 MIT License
