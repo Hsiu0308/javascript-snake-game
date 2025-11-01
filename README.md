@@ -6,7 +6,7 @@
 
 您可以透過以下連結瀏覽這個網站的即時成果：
 
-[**https://Hsiu0308.github.io/javascript-snake-game.git/**](https://hsiu0308.github.io/javascript-snake-game.git/)
+[**https://Hsiu0308.github.io/javascript-snake-game/**](https://hsiu0308.github.io/javascript-snake-game/)
 
 ---
 
